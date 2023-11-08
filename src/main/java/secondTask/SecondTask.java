@@ -16,5 +16,4 @@ public class SecondTask {
         }
         System.out.println(name + " хранит у себя " + amount + " " + apples);
     }
-
 }

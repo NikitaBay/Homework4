@@ -5,6 +5,8 @@ public class FirstTask {
         int number = -12;
         String result = number > 0 ? number % 7 < 4 ? "positive-m" : "positive-p" : number == 0 ? "zero" : number % 7 > -4 ? "negative-m" : "negative-p";
         System.out.println(result);
+    }
+}
 //        public static String convertNumber(int number) {
 //            String result;
 //            if (number > 0) {
@@ -24,5 +26,3 @@ public class FirstTask {
 //            }
 //            return result;
 //        }
-    }
-}
