@@ -1,7 +1,6 @@
-package secondTask;
+package ivansApples;
 
-public class SecondTask {
-    private final String name = "Иван";
+public class IvansApples {
     private String apples;
 
     public void ivansApples(String name, int amount) {
